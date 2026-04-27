@@ -23,6 +23,7 @@
 ```bash
 
 node 1.js 3000
-
+```
 ### Результат роботи
-![Ilona6](Ilona6.png)
+
+**![Ilona6](Ilona6.png)
